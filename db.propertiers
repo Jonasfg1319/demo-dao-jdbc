@@ -1,4 +1,4 @@
 user=root
-password=1231231
+password=12415112
 dburl=jdbc:mysql://localhost:3306/jdbc
 useSSL=false
